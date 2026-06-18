@@ -1,0 +1,17 @@
+# Ignore API keys and environment variables
+.env
+
+# Ignore virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Ignore python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore editor settings
+.vscode/
+.idea/
